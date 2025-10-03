@@ -18,7 +18,7 @@ Dataset with weekly user activity logs. Data was structured, cleaned, and visual
 - Provided input for product strategy optimization.  
 
 ## 🖼 Preview
-![Dashboard Screenshot](assets/weekly_dauwau_dynamics.png)
+![Dashboard Screenshot](weekly_dauwau_dynamics.png)
 
 ## 🔗 Live Version
 [Google Sheets Report](https://docs.google.com/spreadsheets/d/1-whK7RKQbORPN-ecAuHBOVLl3IxWCE1uRU1OwrJ7OJw/edit?usp=sharing)
